@@ -1,0 +1,6 @@
+*.json
+*.asc
+*.rpt
+*.bin
+*~
+OLD/*
